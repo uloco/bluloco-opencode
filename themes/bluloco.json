@@ -9,6 +9,8 @@
     "punctuationLight": "#7A82DA",
     "propertyDark": "#CE9887",
     "propertyLight": "#A05A48",
+    "functionDark": "#3FC56B",
+    "functionLight": "#23974A",
     "keywordDark": "#10B1FE",
     "keywordLight": "#0098DD",
     "constantDark": "#9F7EFE",
@@ -27,8 +29,6 @@
     "errorLight": "#ff0000",
     "warningDark": "#da7a43",
     "warningLight": "#ff8f3a",
-    "successDark": "#3FC56B",
-    "successLight": "#23974A",
     "textDark": "#ABB2BF",
     "textLight": "#383A42",
     "textMutedDark": "#636D83",
@@ -56,16 +56,16 @@
   },
   "theme": {
     "primary": {
-      "dark": "tagDark",
-      "light": "tagLight"
+      "dark": "primaryDark",
+      "light": "primaryLight"
     },
     "secondary": {
-      "dark": "punctuationDark",
-      "light": "punctuationLight"
-    },
-    "accent": {
       "dark": "keywordDark",
       "light": "keywordLight"
+    },
+    "accent": {
+      "dark": "punctuationDark",
+      "light": "punctuationLight"
     },
     "error": {
       "dark": "errorDark",
@@ -76,12 +76,12 @@
       "light": "warningLight"
     },
     "success": {
-      "dark": "successDark",
-      "light": "successLight"
+      "dark": "functionDark",
+      "light": "functionLight"
     },
     "info": {
-      "dark": "tagDark",
-      "light": "tagLight"
+      "dark": "primaryDark",
+      "light": "primaryLight"
     },
     "text": {
       "dark": "textDark",
@@ -108,8 +108,8 @@
       "light": "borderLight"
     },
     "borderActive": {
-      "dark": "tagDark",
-      "light": "tagLight"
+      "dark": "typeDark",
+      "light": "primaryLight"
     },
     "borderSubtle": {
       "dark": "borderSubtleDark",
@@ -176,24 +176,24 @@
       "light": "tagLight"
     },
     "markdownLinkText": {
-      "dark": "stringDark",
-      "light": "stringLight"
-    },
-    "markdownCode": {
-      "dark": "successDark",
-      "light": "successLight"
-    },
-    "markdownBlockQuote": {
-      "dark": "textMutedDark",
-      "light": "textMutedLight"
-    },
-    "markdownEmph": {
-      "dark": "punctuationDark",
-      "light": "punctuationLight"
-    },
-    "markdownStrong": {
       "dark": "constantDark",
       "light": "constantLight"
+    },
+    "markdownCode": {
+      "dark": "propertyDark",
+      "light": "propertyLight"
+    },
+    "markdownBlockQuote": {
+      "dark": "constantDark",
+      "light": "constantLight"
+    },
+    "markdownEmph": {
+      "dark": "attributeDark",
+      "light": "attributeLight"
+    },
+    "markdownStrong": {
+      "dark": "typeDark",
+      "light": "typeLight"
     },
     "markdownHorizontalRule": {
       "dark": "textMutedDark",
@@ -204,20 +204,20 @@
       "light": "punctuationLight"
     },
     "markdownListEnumeration": {
-      "dark": "numberDark",
-      "light": "numberLight"
+      "dark": "punctuationDark",
+      "light": "punctuationLight"
     },
     "markdownImage": {
       "dark": "tagDark",
       "light": "tagLight"
     },
     "markdownImageText": {
-      "dark": "stringDark",
-      "light": "stringLight"
+      "dark": "constantDark",
+      "light": "constantLight"
     },
     "markdownCodeBlock": {
-      "dark": "bgPanelDark",
-      "light": "bgPanelLight"
+      "dark": "typeDark",
+      "light": "typeLight"
     },
     "syntaxComment": {
       "dark": "textMutedDark",
@@ -228,12 +228,12 @@
       "light": "keywordLight"
     },
     "syntaxFunction": {
-      "dark": "successDark",
-      "light": "successLight"
+      "dark": "functionDark",
+      "light": "functionLight"
     },
     "syntaxVariable": {
-      "dark": "parameterDark",
-      "light": "parameterLight"
+      "dark": "constantDark",
+      "light": "constantLight"
     },
     "syntaxString": {
       "dark": "stringDark",
