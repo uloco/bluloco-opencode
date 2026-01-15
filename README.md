@@ -11,8 +11,8 @@ Based on the [Bluloco](https://github.com/uloco/bluloco.nvim) color scheme.
 | Property | Dark | | Light | |
 |----------|------|--|-------|--|
 | primary | ![](https://placehold.co/20x20/3691ff/3691ff) | `#3691ff` | ![](https://placehold.co/20x20/0099e1/0099e1) | `#0099e1` |
-| secondary | ![](https://placehold.co/20x20/7A82DA/7A82DA) | `#7A82DA` | ![](https://placehold.co/20x20/7A82DA/7A82DA) | `#7A82DA` |
-| accent | ![](https://placehold.co/20x20/10B1FE/10B1FE) | `#10B1FE` | ![](https://placehold.co/20x20/0098DD/0098DD) | `#0098DD` |
+| secondary | ![](https://placehold.co/20x20/10B1FE/10B1FE) | `#10B1FE` | ![](https://placehold.co/20x20/0098DD/0098DD) | `#0098DD` |
+| accent | ![](https://placehold.co/20x20/7A82DA/7A82DA) | `#7A82DA` | ![](https://placehold.co/20x20/7A82DA/7A82DA) | `#7A82DA` |
 
 ### Status Colors
 
@@ -37,9 +37,9 @@ Based on the [Bluloco](https://github.com/uloco/bluloco.nvim) color scheme.
 
 | Property | Dark | | Light | |
 |----------|------|--|-------|--|
-| border | ![](https://placehold.co/20x20/3B4252/3B4252) | `#3B4252` | ![](https://placehold.co/20x20/CBCBCB/CBCBCB) | `#CBCBCB` |
-| borderActive | ![](https://placehold.co/20x20/3691ff/3691ff) | `#3691ff` | ![](https://placehold.co/20x20/0099e1/0099e1) | `#0099e1` |
-| borderSubtle | ![](https://placehold.co/20x20/363b44/363b44) | `#363b44` | ![](https://placehold.co/20x20/E0E0E0/E0E0E0) | `#E0E0E0` |
+| border | ![](https://placehold.co/20x20/636D83/636D83) | `#636D83` | ![](https://placehold.co/20x20/A0A1A7/A0A1A7) | `#A0A1A7` |
+| borderActive | ![](https://placehold.co/20x20/FF6480/FF6480) | `#FF6480` | ![](https://placehold.co/20x20/0099e1/0099e1) | `#0099e1` |
+| borderSubtle | ![](https://placehold.co/20x20/3B4252/3B4252) | `#3B4252` | ![](https://placehold.co/20x20/CBCBCB/CBCBCB) | `#CBCBCB` |
 
 ### Diff Colors
 
@@ -64,18 +64,18 @@ Based on the [Bluloco](https://github.com/uloco/bluloco.nvim) color scheme.
 |----------|------|--|-------|--|
 | markdownText | ![](https://placehold.co/20x20/ABB2BF/ABB2BF) | `#ABB2BF` | ![](https://placehold.co/20x20/383A42/383A42) | `#383A42` |
 | markdownHeading | ![](https://placehold.co/20x20/10B1FE/10B1FE) | `#10B1FE` | ![](https://placehold.co/20x20/0098DD/0098DD) | `#0098DD` |
-| markdownLink | ![](https://placehold.co/20x20/3691ff/3691ff) | `#3691ff` | ![](https://placehold.co/20x20/0099e1/0099e1) | `#0099e1` |
-| markdownLinkText | ![](https://placehold.co/20x20/F9C859/F9C859) | `#F9C859` | ![](https://placehold.co/20x20/C5A332/C5A332) | `#C5A332` |
-| markdownCode | ![](https://placehold.co/20x20/3FC56B/3FC56B) | `#3FC56B` | ![](https://placehold.co/20x20/23974A/23974A) | `#23974A` |
-| markdownBlockQuote | ![](https://placehold.co/20x20/636D83/636D83) | `#636D83` | ![](https://placehold.co/20x20/A0A1A7/A0A1A7) | `#A0A1A7` |
-| markdownEmph | ![](https://placehold.co/20x20/FF6480/FF6480) | `#FF6480` | ![](https://placehold.co/20x20/D52753/D52753) | `#D52753` |
-| markdownStrong | ![](https://placehold.co/20x20/FF936A/FF936A) | `#FF936A` | ![](https://placehold.co/20x20/DF631C/DF631C) | `#DF631C` |
+| markdownLink | ![](https://placehold.co/20x20/3691FF/3691FF) | `#3691FF` | ![](https://placehold.co/20x20/275FE4/275FE4) | `#275FE4` |
+| markdownLinkText | ![](https://placehold.co/20x20/9F7EFE/9F7EFE) | `#9F7EFE` | ![](https://placehold.co/20x20/823FF1/823FF1) | `#823FF1` |
+| markdownCode | ![](https://placehold.co/20x20/CE9887/CE9887) | `#CE9887` | ![](https://placehold.co/20x20/A05A48/A05A48) | `#A05A48` |
+| markdownBlockQuote | ![](https://placehold.co/20x20/9F7EFE/9F7EFE) | `#9F7EFE` | ![](https://placehold.co/20x20/823FF1/823FF1) | `#823FF1` |
+| markdownEmph | ![](https://placehold.co/20x20/FF936A/FF936A) | `#FF936A` | ![](https://placehold.co/20x20/DF631C/DF631C) | `#DF631C` |
+| markdownStrong | ![](https://placehold.co/20x20/FF6480/FF6480) | `#FF6480` | ![](https://placehold.co/20x20/D52753/D52753) | `#D52753` |
 | markdownHorizontalRule | ![](https://placehold.co/20x20/636D83/636D83) | `#636D83` | ![](https://placehold.co/20x20/A0A1A7/A0A1A7) | `#A0A1A7` |
 | markdownListItem | ![](https://placehold.co/20x20/7A82DA/7A82DA) | `#7A82DA` | ![](https://placehold.co/20x20/7A82DA/7A82DA) | `#7A82DA` |
 | markdownListEnumeration | ![](https://placehold.co/20x20/FF78F8/FF78F8) | `#FF78F8` | ![](https://placehold.co/20x20/CE33C0/CE33C0) | `#CE33C0` |
 | markdownImage | ![](https://placehold.co/20x20/3691FF/3691FF) | `#3691FF` | ![](https://placehold.co/20x20/275FE4/275FE4) | `#275FE4` |
-| markdownImageText | ![](https://placehold.co/20x20/F9C859/F9C859) | `#F9C859` | ![](https://placehold.co/20x20/C5A332/C5A332) | `#C5A332` |
-| markdownCodeBlock | ![](https://placehold.co/20x20/21242D/21242D) | `#21242D` | ![](https://placehold.co/20x20/ECEDEE/ECEDEE) | `#ECEDEE` |
+| markdownImageText | ![](https://placehold.co/20x20/9F7EFE/9F7EFE) | `#9F7EFE` | ![](https://placehold.co/20x20/823FF1/823FF1) | `#823FF1` |
+| markdownCodeBlock | ![](https://placehold.co/20x20/FF6480/FF6480) | `#FF6480` | ![](https://placehold.co/20x20/D52753/D52753) | `#D52753` |
 
 ### Syntax Highlighting
 
@@ -84,12 +84,12 @@ Based on the [Bluloco](https://github.com/uloco/bluloco.nvim) color scheme.
 | syntaxComment | ![](https://placehold.co/20x20/636D83/636D83) | `#636D83` | ![](https://placehold.co/20x20/A0A1A7/A0A1A7) | `#A0A1A7` |
 | syntaxKeyword | ![](https://placehold.co/20x20/10B1FE/10B1FE) | `#10B1FE` | ![](https://placehold.co/20x20/0098DD/0098DD) | `#0098DD` |
 | syntaxFunction | ![](https://placehold.co/20x20/3FC56B/3FC56B) | `#3FC56B` | ![](https://placehold.co/20x20/23974A/23974A) | `#23974A` |
-| syntaxVariable | ![](https://placehold.co/20x20/8bcdef/8bcdef) | `#8bcdef` | ![](https://placehold.co/20x20/40B8C5/40B8C5) | `#40B8C5` |
+| syntaxVariable | ![](https://placehold.co/20x20/9F7EFE/9F7EFE) | `#9F7EFE` | ![](https://placehold.co/20x20/823FF1/823FF1) | `#823FF1` |
 | syntaxString | ![](https://placehold.co/20x20/F9C859/F9C859) | `#F9C859` | ![](https://placehold.co/20x20/C5A332/C5A332) | `#C5A332` |
 | syntaxNumber | ![](https://placehold.co/20x20/FF78F8/FF78F8) | `#FF78F8` | ![](https://placehold.co/20x20/CE33C0/CE33C0) | `#CE33C0` |
 | syntaxType | ![](https://placehold.co/20x20/FF6480/FF6480) | `#FF6480` | ![](https://placehold.co/20x20/D52753/D52753) | `#D52753` |
 | syntaxOperator | ![](https://placehold.co/20x20/7A82DA/7A82DA) | `#7A82DA` | ![](https://placehold.co/20x20/7A82DA/7A82DA) | `#7A82DA` |
-| syntaxPunctuation | ![](https://placehold.co/20x20/ABB2BF/ABB2BF) | `#ABB2BF` | ![](https://placehold.co/20x20/383A42/383A42) | `#383A42` |
+| syntaxPunctuation | ![](https://placehold.co/20x20/7A82DA/7A82DA) | `#7A82DA` | ![](https://placehold.co/20x20/7A82DA/7A82DA) | `#7A82DA` |
 
 ## Installation
 
