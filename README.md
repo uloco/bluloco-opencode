@@ -4,6 +4,23 @@ A vibrant, colorful theme for [opencode.ai](https://opencode.ai) with both dark 
 
 Based on the [Bluloco](https://github.com/uloco/bluloco.nvim) color scheme.
 
+## Installation
+
+Copy the theme file to your opencode themes directory:
+
+```bash
+mkdir -p ~/.config/opencode/themes
+cp themes/bluloco.json ~/.config/opencode/themes/
+```
+
+Then select it with the `/theme` command or add to your `opencode.json`:
+
+```json
+{
+  "theme": "bluloco"
+}
+```
+
 ## Color Mapping
 
 ### Primary Colors
@@ -90,23 +107,6 @@ Based on the [Bluloco](https://github.com/uloco/bluloco.nvim) color scheme.
 | syntaxType | ![](https://placehold.co/20x20/FF6480/FF6480) | `#FF6480` | ![](https://placehold.co/20x20/D52753/D52753) | `#D52753` |
 | syntaxOperator | ![](https://placehold.co/20x20/7A82DA/7A82DA) | `#7A82DA` | ![](https://placehold.co/20x20/7A82DA/7A82DA) | `#7A82DA` |
 | syntaxPunctuation | ![](https://placehold.co/20x20/7A82DA/7A82DA) | `#7A82DA` | ![](https://placehold.co/20x20/7A82DA/7A82DA) | `#7A82DA` |
-
-## Installation
-
-Copy the theme file to your opencode themes directory:
-
-```bash
-mkdir -p ~/.config/opencode/themes
-cp themes/bluloco.json ~/.config/opencode/themes/
-```
-
-Then select it with the `/theme` command or add to your `opencode.json`:
-
-```json
-{
-  "theme": "bluloco"
-}
-```
 
 ## License
 
